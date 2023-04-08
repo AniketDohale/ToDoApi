@@ -1,0 +1,12 @@
+Dependencies -
+
+express
+mongoose
+jsonwebtoken
+bcryptjs
+dotenv
+
+Development Dependencies (-D) - 
+nodemon
+colors 
+morgan
